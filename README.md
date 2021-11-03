@@ -1,10 +1,9 @@
 # Hello There!
 
-Hi! I am Riccardo Biondi,  graduated in Applied Physics from the University of
+Hi! I am Riccardo Biondi,  PhD student at the University of
 Bologna(UNIBO).
 
-I am spending my post-graduation at the Department of Experimental
-and Diagnostic Medicine of UNIBO focusing on semantic medical image segmentation.
+I am spending my PhD focusing on semantic medical image segmentation and radiomics.
 
 Feel free to clone projects, raise issues or submit pull requests if something could be better.
 
