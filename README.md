@@ -1,10 +1,8 @@
 # Hello There!
 
 
-Hi! I am Riccardo Biondi,  PhD student at the University of
-Bologna(UNIBO).
-
-I am spending my PhD focusing on semantic medical image segmentation and radiomics.
+Hi! I am Riccardo Biondi,  PhD from the Big Data Analytics and Biophysics group of the Neurological Sciences Instutute of Bologna (IRCCS-ISNB).
+I focus my research onto medical image analysis, mainly on automation of image segmentation.
 
 Feel free to clone projects, raise issues or submit pull requests if something could be better.
 
